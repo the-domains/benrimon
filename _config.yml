@@ -1,0 +1,23 @@
+name: Benrimon
+favicon: null
+layout_spectrum: 0.7932981019839644
+typography_spectrum: 0.931189363123849
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.5574089172296226
+  lightness: 0.4282121015712619
+  saturation: 0.2603846462443471
+  rhythmicContrast: 0.3014314949978143
+purpose: []
