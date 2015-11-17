@@ -2,6 +2,7 @@ name: Benrimon
 favicon: null
 layout_spectrum: 0.99819
 typography_spectrum: 0.931189363123849
+title: 'This is a website about me, Leon Benrimon.'
 cta:
   domain: null
   bucket: null
